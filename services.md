@@ -1,3 +1,7 @@
++++
+title = "Services"
++++
+
 {{ page_title "Services" "At Creative By Nature, we specialize in custom woodworking that transforms your imagination into reality. Whether you envision a unique piece of furniture, intricate chainsaw carvings, or need expert sawmilling services, we are here to bring your ideas to life. Our craftsmanship and attention to detail ensure each project is a true work of art, reflecting both our passion for woodwork and your personal style." " "}}
 
 {{ content_img_right "Sawmilling" "Our sawmilling services are designed to meet the diverse needs of wood enthusiasts, builders, and hobbyists alike. Utilizing state-of-the-art sawmilling equipment, we offer precise and efficient milling of logs into high-quality lumber. Whether you need custom cuts for a special project, live edge slabs for unique furniture pieces, or dimensional lumber for construction, our sawmilling services can accommodate your requirements.

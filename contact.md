@@ -1,3 +1,7 @@
++++
+title = "Contact"
++++
+
 {{ begin content }}
 
 {{ content_img_left 
