@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Creative by Nature"
 website_descr = "Homepage"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://rdboyes.github.io/creative-by-nature"
 +++
 
 <!--
