@@ -7,7 +7,7 @@ mintoclevel = 2
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
 # please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
-prepath = "creative-by-nature"
+# prepath = "creative-by-nature"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Creative by Nature"
 website_descr = "Homepage"
-website_url   = "https://rdboyes.github.io/creative-by-nature"
+website_url   = "https://creativebynature.netlify.app/"
 +++
 
 <!--
